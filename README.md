@@ -19,10 +19,6 @@ Forgot Password: Allows users to reset their passwords securely(not implemented 
 Reset Password: Enables users to set a new password after verification(not implemented yet)
 
 🛠️ Tech Stack
-
-Backend: Node.js, Express.js
-
-Database: MongoDB (Planned)
-
-Authentication: JWT, bcrypt
+Authentication: clerk
+front-end :react/Nextjs
 
